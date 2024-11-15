@@ -1,0 +1,22 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url('https://i.pinimg.com/originals/4f/dd/d5/4fddd5f8c2a85275f0fde4c6851b092f.gif') no-repeat center center fixed; 
+    background-size: cover;
+}
+
+.login-container {
+    background: url('https://i.pinimg.com/originals/4f/dd/d5/4fddd5f8c2a85275f0fde4c6851b092f.gif') no-repeat center center;
+    background-size: cover;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 380px;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent overlay */
+}
